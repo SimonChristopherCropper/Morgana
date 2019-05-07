@@ -18,7 +18,11 @@ Jarny Choi (design, analysis) ([ResearchGate][14])
 
 Morgana is a program designed to be an intuitive and interactive way to visualize relationships between different types of data. It was proposed as a problem worth consideration at the Open Knowledge event "HealthHack 2016 (Melbourne)" by the Gastro & Food Allergy Group of Murdoch Childrens Research Institute. A team was formed at that event and the team that created the initial prototype won first prize.
 
-The basic premise of Morgana is that complex data can be difficult to visualise, and there is a need for a tool to intuitively and interactively visualse groups within a larger dataset and quickly ascertain relationships between different types of data in that group. The tool is not considered to be a analysis package but rather a tool for exploring or interagating the data.
+The basic premise of Morgana is that complex data can be difficult to visualise, and there is a need for a tool to intuitively and interactively visualise groups within a larger dataset and quickly ascertain relationships between different types of data in that group. The tool is not considered to be a analysis package but rather a tool for exploring or interrogating the data.
+
+Here is a short demo of the program created during HealthHack 2016 (Melbourne) showing pertinent features of the interface.
+
+<img src="/images/Morgana.gif" alt="Morgana Demo" width="500">
 
 ## Etymology of name
 
@@ -27,7 +31,7 @@ Named after the Arthurian sorceress Morgan le Fay, Fata Morgana or Morgana. Morg
 Fata Morgana is an unusual and complex form of mirage where an object is significantly distorted and rapidly changes. The mirage can comprise of several inverted (upside down) and erect (right side up) that are stacked on top of one another. Fata Morgana are caused by rays of light being bent when passing through air layers of different temperatures in a steep thermal inversion where an atmospheric duct has formed.
 [Wikipedia 2016 - Fata Morgana (mirage)][1]
 
-> The analogy here is that Morgana the software will rapidly reformat and present complex almost indecyperable datasets in novel and informative ways so casual researchers are attracted to investigate further.
+> The analogy here is that Morgana the software will rapidly reformat and present complex almost indecipherable datasets in novel and informative ways so casual researchers are attracted to investigate further.
 
 ## Operating System
 
@@ -35,8 +39,8 @@ Morgana currently only operates under Linux.
 
 ## Prerequisites
 
-Python 3
-npm
+	Python 3
+	npm
 
 ## Installation
 
@@ -61,7 +65,7 @@ If using the anaconda/miniconda python distribution, use the provided environmen
 
 ## Licenses
 
-Software devloped under this project is being released under a [GNU General Public License, version 3 (GPL-3.0)][2] license.
+Software developed under this project is being released under a [GNU General Public License, version 3 (GPL-3.0)][2] license.
 
 Supportive documentation is released under a [Creative Commons Attribution 4.0 International (CC-BY)][3] license.
 
